@@ -4,7 +4,7 @@ public class Table {
 
 	public static void main(String[] args) {
        String s="sathyamoorthy";
-       String m="akilandeswari";
+       int a=10;
 		
 		
 	}
